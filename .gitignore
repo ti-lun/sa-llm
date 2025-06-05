@@ -1,0 +1,7 @@
+bin*
+.venv*
+pyvenv.cfg
+.DS_Store
+include*
+lib*
+legal_llm_model*

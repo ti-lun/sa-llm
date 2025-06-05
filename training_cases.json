@@ -1,0 +1,122 @@
+[
+  {
+    "post": "I think my employer is violating my privacy by reading my emails.",
+    "relevant_codes": ["CODE_002"],
+    "good_response": "Based on privacy regulations (CODE_002), employers generally have limited rights to monitor employee communications. However, this depends on your employment contract and local laws. You should review your employee handbook for specific monitoring policies and consider consulting with HR or an employment attorney if you believe your privacy rights are being violated.",
+    "metadata": {"category": "employment_privacy", "difficulty": "medium"}
+  },
+  {
+    "post": "Someone copied my website design exactly. Can I sue them?",
+    "relevant_codes": ["CODE_003"],
+    "good_response": "This may constitute intellectual property infringement under CODE_003. Website designs can be protected by copyright if they meet originality requirements. You should document the similarities between your design and the copied version, gather evidence of when you created your design, and consult with an intellectual property attorney to evaluate the strength of your case and potential remedies.",
+    "metadata": {"category": "ip_infringement", "difficulty": "high"}
+  },
+  {
+    "post": "My landlord wants to enter my apartment without giving me notice. Is this legal?",
+    "relevant_codes": ["CODE_001"],
+    "good_response": "Under CODE_001, landlords typically must provide reasonable notice (usually 24-48 hours) before entering a tenant's dwelling, except in emergencies. The specific notice requirements vary by jurisdiction. If your landlord is entering without proper notice, you should document these incidents, review your lease agreement, and check your local tenant protection laws. Consider contacting a tenant's rights organization or attorney if the problem persists.",
+    "metadata": {"category": "tenant_rights", "difficulty": "medium"}
+  },
+  {
+    "post": "Is it legal for my boss to make me work overtime without pay?",
+    "relevant_codes": ["CODE_002"],
+    "good_response": "This depends on your employment classification under CODE_002. If you're a non-exempt employee, your employer must pay overtime (typically 1.5x regular rate) for hours worked over 40 per week. However, if you're classified as exempt (salaried professional, executive, or administrative), different rules may apply. Check your employment classification, review your pay stubs, and consider contacting your state's labor department if you believe you're owed overtime pay.",
+    "metadata": {"category": "labor_law", "difficulty": "medium"}
+  },
+  {
+    "post": "Someone is spreading false rumors about my business online. What can I do?",
+    "relevant_codes": ["CODE_003"],
+    "good_response": "False statements that damage your business reputation may constitute defamation under CODE_003. To have a viable claim, the statements must be false, published to third parties, and cause reputational or financial harm. You should document the false statements, gather evidence of any damages, and consider sending a cease and desist letter. For significant damages, consult with a defamation attorney about your options.",
+    "metadata": {"category": "defamation", "difficulty": "high"}
+  },
+  {
+    "post": "My landlord is trying to evict me but I haven't missed any rent payments. Can they do this?",
+    "relevant_codes": ["CODE_001"],
+    "good_response": "Under CODE_001, landlords cannot evict tenants without proper legal cause and following due process. Even if rent is current, eviction may be possible for lease violations, property damage, or other specified reasons in your lease. However, landlords must follow proper eviction procedures including written notice and court proceedings. Review your lease terms, document your rent payment history, and consider consulting with a tenant's rights attorney to understand your protections and response options.",
+    "metadata": {"category": "tenant_rights", "difficulty": "high"}
+  },
+  {
+    "post": "Can my employer fire me for taking sick leave?",
+    "relevant_codes": ["CODE_002"],
+    "good_response": "Employment protections under CODE_002 may prevent termination for legitimate sick leave, especially if you're covered by family and medical leave laws. However, protections vary based on company size, your length of employment, and local laws. If you have a documented medical condition or are using legally protected leave, termination may be unlawful. Document your communications about sick leave, review your employee handbook, and consider consulting with an employment attorney if you believe the termination was improper.",
+    "metadata": {"category": "employment_termination", "difficulty": "high"}
+  },
+  {
+    "post": "A competitor is using my company's trademarked slogan in their ads. What should I do?",
+    "relevant_codes": ["CODE_003"],
+    "good_response": "If your slogan is properly trademarked, this likely constitutes intellectual property infringement under CODE_003. Trademark infringement occurs when another party uses your protected mark in a way that causes consumer confusion. You should gather evidence of their use, document your trademark registration, and consider sending a cease and desist letter. For ongoing infringement, consult with an intellectual property attorney about filing a trademark infringement lawsuit and seeking damages or injunctive relief.",
+    "metadata": {"category": "trademark_infringement", "difficulty": "high"}
+  },
+  {
+    "post": "My landlord wants to raise my rent by 50% with only one week notice. Is this allowed?",
+    "relevant_codes": ["CODE_001"],
+    "good_response": "Rent increases are governed by CODE_001 and typically require proper notice periods (usually 30 days minimum for month-to-month leases). Many jurisdictions also have rent control laws that limit the amount and frequency of increases. A 50% increase with one week notice likely violates both notice requirements and possibly rent control regulations. Check your local rent control laws, review your lease agreement, and consider contacting a tenant's rights organization or attorney immediately.",
+    "metadata": {"category": "rent_increase", "difficulty": "high"}
+  },
+  {
+    "post": "My boss is making me work through my lunch breaks without pay. Is this legal?",
+    "relevant_codes": ["CODE_002"],
+    "good_response": "Under CODE_002, employees are generally entitled to meal breaks, and if you're required to work during these breaks, you must be compensated. Labor laws vary by state, but many require paid time when employees cannot leave their workstation or must remain available. If you're working through lunch breaks, this time should typically be paid. Document these instances, check your state's specific meal break laws, and consider filing a complaint with your state labor department if the practice continues.",
+    "metadata": {"category": "meal_break_violations", "difficulty": "medium"}
+  },
+  {
+    "post": "Someone posted a fake negative review about my restaurant with completely false claims. Can I get it removed?",
+    "relevant_codes": ["CODE_003"],
+    "good_response": "False reviews that contain demonstrably untrue statements may constitute defamation under CODE_003. You have several options: first, contact the review platform to report the fake review with evidence. Many platforms will remove reviews that violate their policies. You can also respond professionally to the review with facts. If the false review is causing significant business harm, document the false statements and consider legal action against the reviewer. An attorney can help evaluate whether you have grounds for a defamation claim.",
+    "metadata": {"category": "online_defamation", "difficulty": "medium"}
+  },
+  {
+    "post": "My lease says no pets, but I need a service animal for my disability. Can my landlord refuse?",
+    "relevant_codes": ["CODE_001"],
+    "good_response": "Under CODE_001 and federal disability laws, landlords generally cannot refuse reasonable accommodations for service animals, even if the lease prohibits pets. Service animals are not considered pets under the law. However, you may need to provide documentation of your disability and the animal's training. The process typically involves requesting a reasonable accommodation in writing. If your landlord refuses, this may constitute disability discrimination. Consider contacting a disability rights organization or attorney familiar with fair housing laws for assistance.",
+    "metadata": {"category": "disability_accommodation", "difficulty": "high"}
+  },
+  {
+    "post": "My employer wants me to sign a non-compete agreement after I've already been working here for two years. Do I have to sign it?",
+    "relevant_codes": ["CODE_002"],
+    "good_response": "Under CODE_002, employers cannot generally force existing employees to sign new restrictive agreements without additional consideration (such as a promotion, raise, or bonus). Simply continuing your existing employment may not be sufficient consideration for a new non-compete. The enforceability also depends on whether the restrictions are reasonable in scope, duration, and geographic area. Before signing, consider negotiating the terms or consulting with an employment attorney to understand your rights and the agreement's enforceability in your jurisdiction.",
+    "metadata": {"category": "non_compete_agreements", "difficulty": "high"}
+  },
+  {
+    "post": "I found out my coworker doing the same job makes significantly more money than me. Is this legal?",
+    "relevant_codes": ["CODE_002"],
+    "good_response": "Pay disparities may violate CODE_002 if they're based on protected characteristics like gender, race, or age without legitimate business justifications. However, differences based on experience, performance, education, or other job-related factors may be legal. Many states now have pay equity laws requiring equal pay for equal work. Document your job duties, qualifications, and performance compared to your coworker. Consider discussing this with HR first, and if discrimination is suspected, you may want to consult with an employment attorney or file a complaint with the Equal Employment Opportunity Commission.",
+    "metadata": {"category": "pay_discrimination", "difficulty": "medium"}
+  },
+  {
+    "post": "Someone is selling counterfeit versions of my product online. What can I do to stop them?",
+    "relevant_codes": ["CODE_003"],
+    "good_response": "Counterfeiting constitutes serious intellectual property infringement under CODE_003. You have several options: report the listings to the online platform (most have anti-counterfeiting policies), file takedown requests under intellectual property laws, and consider legal action against the seller. Document the counterfeit products and their impact on your business. If this is happening on a large scale, consult with an intellectual property attorney about filing suit for trademark infringement, copyright violation, and potentially seeking monetary damages and injunctive relief.",
+    "metadata": {"category": "counterfeiting", "difficulty": "high"}
+  },
+  {
+    "post": "My landlord is refusing to fix a broken heater in winter. It's been three weeks. What are my options?",
+    "relevant_codes": ["CODE_001"],
+    "good_response": "Under CODE_001, landlords have a duty to maintain essential services like heating in habitable condition. A broken heater in winter likely violates habitability requirements. Your options may include: documenting the problem in writing, checking local housing codes for specific requirements, potentially withholding rent (where legally allowed), hiring a repair service and deducting costs from rent (if permitted by local law), or in severe cases, breaking the lease. The specific remedies available depend on your local laws. Consider contacting local housing authorities or a tenant's rights attorney for guidance on your jurisdiction's specific procedures.",
+    "metadata": {"category": "habitability_issues", "difficulty": "medium"}
+  },
+  {
+    "post": "My employer is asking me to work off the clock to finish my tasks. Is this legal?",
+    "relevant_codes": ["CODE_002"],
+    "good_response": "Under CODE_002, requiring employees to work off the clock is generally illegal for non-exempt employees. All time worked must be compensated, including time spent finishing tasks after clocking out. This practice violates wage and hour laws and could result in overtime violations. You should document these requests and any unpaid work time. Consider discussing this with HR first, but if the practice continues, you may need to file a complaint with your state's labor department or the Department of Labor. Keep detailed records of all unpaid work time.",
+    "metadata": {"category": "unpaid_work", "difficulty": "medium"}
+  },
+  {
+    "post": "Someone is using my blog posts word-for-word on their website without permission. What can I do?",
+    "relevant_codes": ["CODE_003"],
+    "good_response": "This constitutes copyright infringement under CODE_003. Your original blog posts are automatically protected by copyright when you create them. You have several options: send a cease and desist letter to the infringer, file a DMCA takedown notice if the content is hosted by a U.S.-based platform, or pursue legal action for copyright infringement. Document the original publication dates of your work and evidence of the copying. If the infringement is extensive or causing financial harm, consider consulting with an intellectual property attorney about filing a copyright infringement lawsuit.",
+    "metadata": {"category": "copyright_infringement", "difficulty": "medium"}
+  },
+  {
+    "post": "My landlord entered my apartment while I was away and went through my personal belongings. Is this legal?",
+    "relevant_codes": ["CODE_001"],
+    "good_response": "Under CODE_001, this likely violates your tenant privacy rights and may constitute trespassing. Landlords generally need proper notice and legitimate reasons to enter (emergencies, repairs, inspections), and they should not search through personal belongings. This behavior may violate both landlord-tenant laws and privacy rights. Document the incident, check if anything was disturbed or missing, and review your lease agreement and local tenant protection laws. Consider filing a complaint with local housing authorities and consulting with a tenant's rights attorney, as this may also give you grounds to break your lease without penalty.",
+    "metadata": {"category": "privacy_violation", "difficulty": "high"}
+  },
+  {
+    "post": "My manager keeps scheduling me for shifts but then sending me home early without pay for the full shift. Is this allowed?",
+    "relevant_codes": ["CODE_002"],
+    "good_response": "This practice may violate CODE_002 depending on your jurisdiction's reporting time pay laws. Many states require employers to pay employees for a minimum number of hours (typically 2-4 hours) when they report for scheduled work, even if sent home early. This is called 'reporting time' or 'show up' pay. The specific requirements vary by state. Check your state's labor laws, document instances when you were sent home early, and consider filing a complaint with your state's labor department if this practice violates local reporting time pay requirements.",
+    "metadata": {"category": "reporting_time_pay", "difficulty": "medium"}
+  }
+]
